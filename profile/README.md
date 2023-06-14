@@ -14,7 +14,3 @@
     <img src="https://img.shields.io/badge/discord-join-5865F2.svg?style=flat" alt="Join Discord">
   </a>
 </div>
-
-<pre align="center" width="330px">
-  npx tram-one-express
-</pre>
